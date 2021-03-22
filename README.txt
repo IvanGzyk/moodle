@@ -1,3 +1,33 @@
+
+Passo a passo para instalação e configuração moodle
+
+1 - Baixar arquivo de instalação moodle.zip
+2 - Criar banco de dados moodle
+3 - Descompactar moodle na pasta do servidor
+4 - abrir em um navegador moodle/install.php
+    4.1 - iniciar instalação com configuração do banco de dados
+    4.2 - corrigir algumas configurações do php.ini
+    4.3 - instalar openssl
+5 - baixar theme_fordson.zip
+6 - logar como administrador no moodle
+    6.1 - ir até a aba Plugin
+    6.2 - clicar em instalar componente
+    6.3 - clicar em thema
+    6.4 - carregar o arquivo do thema baixado
+    6.5 - instalar
+7 - ir até a aba Aparencias
+    7.1 - clicar em Themas
+    7.2 - clicar em seletor de themas
+    7.3 - clicar em  trocar thema
+    7.4 - escolher o thema e clicar em usar thema
+
+
+
+
+
+
+
+
                                  .-..-.
    _____                         | || |
   /____/-.---_  .---.  .---.  .-.| || | .---.
